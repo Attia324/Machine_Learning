@@ -1,2 +1,2 @@
-<p> I am creating new project</p>
-<p> this is new feature (dropdown)</p>
+ I am creating new project
+ this is new feature (dropdown)
